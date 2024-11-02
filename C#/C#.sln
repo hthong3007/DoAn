@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTWD", "LTWD\LTWD.csproj", "{9C03AA0D-818F-4022-B51A-C87D414FE707}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{12B8DE34-0FB3-49D7-AF99-1BF77A981F91}"
+	ProjectSection(SolutionItems) = preProject
+		bai4.cs = bai4.cs
+		CustomerBAL.cs = CustomerBAL.cs
+		CustomerBEL.cs = CustomerBEL.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Article11", "C:\Users\admin\Downloads\Article11\Article11.csproj", "{939774A8-99A2-44CA-B400-26FBE06A9449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C03AA0D-818F-4022-B51A-C87D414FE707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C03AA0D-818F-4022-B51A-C87D414FE707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C03AA0D-818F-4022-B51A-C87D414FE707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C03AA0D-818F-4022-B51A-C87D414FE707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939774A8-99A2-44CA-B400-26FBE06A9449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939774A8-99A2-44CA-B400-26FBE06A9449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939774A8-99A2-44CA-B400-26FBE06A9449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939774A8-99A2-44CA-B400-26FBE06A9449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {182162EB-4302-43DE-A684-F983EBC64EEA}
+	EndGlobalSection
+EndGlobal
